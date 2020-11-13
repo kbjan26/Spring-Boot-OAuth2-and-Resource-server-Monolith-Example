@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Hello-World-OAuth2
+
+
+
