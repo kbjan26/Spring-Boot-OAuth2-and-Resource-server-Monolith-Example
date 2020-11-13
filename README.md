@@ -15,3 +15,6 @@ Two users are configured in memory one with "ROLE_USER" and another with "ROLE_A
 Working example with evidence from POSTMAN as to how the protected resource can be access using valid token
 
 
+[![Generate-Token.jpg](https://i.postimg.cc/zX02sVLw/Generate-Token.jpg)](https://postimg.cc/XpBgFNkX)
+
+[![GET-Using-Token.jpg](https://i.postimg.cc/7hqXckwQ/GET-Using-Token.jpg)](https://postimg.cc/qhZ8hWt8)
